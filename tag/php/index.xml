@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP | Junno Tantra</title>
+    <link>https://junnotantra.com/tag/php/</link>
+      <atom:link href="https://junnotantra.com/tag/php/index.xml" rel="self" type="application/rss+xml" />
+    <description>PHP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Junno Tantra</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junnotantra.com/media/icon_hua3378daa866cfaab1aa12d19814b765b_1717_512x512_fill_lanczos_center_3.png</url>
+      <title>PHP</title>
+      <link>https://junnotantra.com/tag/php/</link>
+    </image>
+    
+    <item>
+      <title>SIDOEL</title>
+      <link>https://junnotantra.com/project/sidoel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/sidoel/</guid>
+      <description>&lt;p&gt;Online Letter Disposition System used by Indonesian Ministry of Maritime Affairs and Fisheries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

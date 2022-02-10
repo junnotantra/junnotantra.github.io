@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang | Junno Tantra</title>
+    <link>https://junnotantra.com/tag/golang/</link>
+      <atom:link href="https://junnotantra.com/tag/golang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Golang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Junno Tantra</copyright><lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junnotantra.com/media/icon_hua3378daa866cfaab1aa12d19814b765b_1717_512x512_fill_lanczos_center_3.png</url>
+      <title>Golang</title>
+      <link>https://junnotantra.com/tag/golang/</link>
+    </image>
+    
+    <item>
+      <title>GoJS Toolkits</title>
+      <link>https://junnotantra.com/project/gojs-toolkit/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/gojs-toolkit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gojs.junnotantra.com&#34; title=&#34;GoJS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoJS toolkit&lt;/a&gt; is a collection of small web development tools. All tools are written in Golang but transpiled to javascript using &lt;a href=&#34;http://gopherjs.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GopherJS&lt;/a&gt;, so all logic happens on browser.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted to create small tools like this but because I&amp;rsquo;m not a javascript person (pls don&amp;rsquo;t bash me about this) and making this kind of tools on backend side is a bit unecessary, I end up never done it before. But everything changes after I found GopherJS. I can code it on golang and run it on client side, so here is the result.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Go-Journal</title>
+      <link>https://junnotantra.com/project/go-journal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/go-journal/</guid>
+      <description>&lt;p&gt;Personal Journal App created with Golang and Postgre.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Go-Shortener</title>
+      <link>https://junnotantra.com/project/go-shortener/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/go-shortener/</guid>
+      <description>&lt;p&gt;Go-shortener is a small service to manage shorten URL and redirection, similar to popular service such as bit.ly. The service is developed using golang and use bbolt DB as the data storage. Go-shortener aimed for developer that want to self host URL shortening service, it is designed to be as small and easy to run.&lt;/p&gt;
+&lt;p&gt;I myself host this service at &lt;a href=&#34;https://junt.pw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;junt.pw&lt;/a&gt;, this will redirect to my personal website. Another example, if you click this link: &lt;a href=&#34;https://junt.pw/drumcovers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;junt.pw/drumcovers&lt;/a&gt;, it will redirect you to my youtube channel.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information System | Junno Tantra</title>
+    <link>https://junnotantra.com/tag/information-system/</link>
+      <atom:link href="https://junnotantra.com/tag/information-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information System</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Junno Tantra</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junnotantra.com/media/icon_hua3378daa866cfaab1aa12d19814b765b_1717_512x512_fill_lanczos_center_3.png</url>
+      <title>Information System</title>
+      <link>https://junnotantra.com/tag/information-system/</link>
+    </image>
+    
+    <item>
+      <title>Go-Journal</title>
+      <link>https://junnotantra.com/project/go-journal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/go-journal/</guid>
+      <description>&lt;p&gt;Personal Journal App created with Golang and Postgre.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIDOEL</title>
+      <link>https://junnotantra.com/project/sidoel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/sidoel/</guid>
+      <description>&lt;p&gt;Online Letter Disposition System used by Indonesian Ministry of Maritime Affairs and Fisheries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

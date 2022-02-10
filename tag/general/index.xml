@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General | Junno Tantra</title>
+    <link>https://junnotantra.com/tag/general/</link>
+      <atom:link href="https://junnotantra.com/tag/general/index.xml" rel="self" type="application/rss+xml" />
+    <description>General</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Junno Tantra</copyright><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junnotantra.com/media/icon_hua3378daa866cfaab1aa12d19814b765b_1717_512x512_fill_lanczos_center_3.png</url>
+      <title>General</title>
+      <link>https://junnotantra.com/tag/general/</link>
+    </image>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://junnotantra.com/post/hello-world/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/post/hello-world/</guid>
+      <description>&lt;p&gt;Like every beginning when you learn a new programming language, let&amp;rsquo;s start the beginning of this blog with a hello world post. I hope you guys will enjoy reading this blog and  will give you some valuable information. See you on the next post! :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

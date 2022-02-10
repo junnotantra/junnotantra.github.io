@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | Junno Tantra</title>
+    <link>https://junnotantra.com/tag/tools/</link>
+      <atom:link href="https://junnotantra.com/tag/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Junno Tantra</copyright><lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://junnotantra.com/media/icon_hua3378daa866cfaab1aa12d19814b765b_1717_512x512_fill_lanczos_center_3.png</url>
+      <title>Tools</title>
+      <link>https://junnotantra.com/tag/tools/</link>
+    </image>
+    
+    <item>
+      <title>GoJS Toolkits</title>
+      <link>https://junnotantra.com/project/gojs-toolkit/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://junnotantra.com/project/gojs-toolkit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gojs.junnotantra.com&#34; title=&#34;GoJS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoJS toolkit&lt;/a&gt; is a collection of small web development tools. All tools are written in Golang but transpiled to javascript using &lt;a href=&#34;http://gopherjs.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GopherJS&lt;/a&gt;, so all logic happens on browser.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted to create small tools like this but because I&amp;rsquo;m not a javascript person (pls don&amp;rsquo;t bash me about this) and making this kind of tools on backend side is a bit unecessary, I end up never done it before. But everything changes after I found GopherJS. I can code it on golang and run it on client side, so here is the result.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
